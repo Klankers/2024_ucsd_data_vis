@@ -2,3 +2,7 @@ Brainstorming data visualization
 This is the second line for another commit.
 
 This should conflict with what's stored locally.
+
+This is a seperate commit. Something for conflict.
+
+If this text is visible, it means I've edited the Github markers out.
