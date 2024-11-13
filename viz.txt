@@ -1,2 +1,4 @@
 Brainstorming data visualization
 This is the second line for another commit.
+
+This should conflict with what's stored locally.
