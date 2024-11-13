@@ -1,2 +1,4 @@
 Brainstorming data visualization
 This is the second line for another commit.
+
+This is a seperate commit. Something for conflict.
